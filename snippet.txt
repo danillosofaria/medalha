@@ -1,0 +1,1 @@
+<model-viewer src="medalha.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" poster="poster.webp" shadow-intensity="1" auto-rotate> </model-viewer>
